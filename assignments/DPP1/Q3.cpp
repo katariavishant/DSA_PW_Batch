@@ -1,0 +1,3 @@
+// int takes 4 bytes
+// bool takes 1 bytes
+// float takes 4 bytes
